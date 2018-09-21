@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSOTESTFACEBOOK</string>
+    <string name="facebook_app_id">819169684947973</string>
+    <string name="fb_login_protocol_scheme">fb819169684947973</string>
+</resources>
